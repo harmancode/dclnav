@@ -6,7 +6,9 @@ Plugin itself simply calls `docker-compose logs [service...]`, strips the contai
 ## How to install
 Assuming you're using oh-my-zsh and zsh
 Go to your custom plugin directory
-`cd ~/.oh-my-zsh/custom/plugins`
+```
+cd ~/.oh-my-zsh/custom/plugins
+```
 
 Get the plugin
 ```
